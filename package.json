@@ -70,6 +70,7 @@
     "rrule-alt": "^2.2.7",
     "simple-git": "^1.85.0",
     "socket.io": "^2.0.4",
+    "update-electron-app": "^1.2.0",
     "valid-url": "latest",
     "walk": "latest"
   }
